@@ -11,4 +11,4 @@ data*.zip
 .redis_cache
 .pg_data
 .cache
-./config.yml
+config.yml
